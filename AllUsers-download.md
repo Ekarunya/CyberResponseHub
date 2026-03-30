@@ -4,7 +4,7 @@
 
 #### MITRE ATT&CK Technique(s)
 
-| Technique ID | Title    | Link    |
+| Technique ID | Title   | Link    |
 | ---  | --- | --- |
 | T1087.004 | Account Discovery: Cloud Account |https://attack.mitre.org/techniques/T1087/004/|
 | T1069.003 | Permission Groups Discovery: Cloud Groups | https://attack.mitre.org/techniques/T1069/003/ |
