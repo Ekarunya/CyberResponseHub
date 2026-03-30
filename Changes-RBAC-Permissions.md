@@ -3,7 +3,7 @@
 ## Query Information
 
 ### Description
-The query below can be used to monitor RBAC changes in Defender XDR. This query list additions, deletions and changes, if you only want to monitor specific actions you can enhance the query by filtering on the actiontype.
+The query below can be used to monitor RBAC changes in Defender XDR. This query list additions, deletions and changes, if you only want to monitor specific actions you can enhance the query by filtering on the actiontype
 
 ### References
 - https://learn.microsoft.com/en-us/defender-xdr/m365d-permissions
