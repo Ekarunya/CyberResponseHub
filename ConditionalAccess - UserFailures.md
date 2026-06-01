@@ -4,7 +4,7 @@
 
 #### MITRE ATT&CK Technique(s)
 
-| Technique ID | Title    | Link    |
+| Technique ID | Title    | Link   |
 | ---  | --- | --- |
 | T1078.004 | Valid Accounts: Cloud Accounts | https://attack.mitre.org/techniques/T1078/004/|
 
