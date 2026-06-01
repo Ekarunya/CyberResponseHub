@@ -4,7 +4,7 @@
 
 ```
 CloudAppEvents
-| where ActionType == "AtpDetection"
+| where ActionType =="AtpDetection"
 | extend
      DetectionMethod = parse_json(RawEventData).DetectionMethod,
      EventDeepLink = parse_json(RawEventData).EventDeepLink,
