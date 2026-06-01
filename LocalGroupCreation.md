@@ -1,6 +1,6 @@
 # Local Group Created
 
-## Query Information
+## QueryInformation
 
 #### Description
 This query lists all the local groups that have been created, this is done by listing all SecurityGroupCreated events and filtering all group creations on Domain Controllers. The GroupDomainName can be used to identify on which device the group has been created.
