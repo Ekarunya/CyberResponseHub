@@ -4,7 +4,7 @@
 
 #### MITRE ATT&CK Technique(s)
 
-| Technique ID | Title    | Link    |
+| Technique ID | Title    | Link   |
 | ---  | --- | --- |
 | T1136.002 | Create Account: Domain Account | https://attack.mitre.org/techniques/T1136/002/ |
 
