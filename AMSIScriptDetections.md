@@ -2,7 +2,7 @@
 
 ## QueryInformation
 
-#### MITRE ATT&CK Technique(s)
+#### MITREATT&CK Technique(s)
 
 | Technique ID | Title    | Link    |
 | ---  | --- | --- |
