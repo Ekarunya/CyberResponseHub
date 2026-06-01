@@ -1,6 +1,6 @@
 # AMSI Script Detection
 
-## Query Information
+## QueryInformation
 
 #### MITRE ATT&CK Technique(s)
 
