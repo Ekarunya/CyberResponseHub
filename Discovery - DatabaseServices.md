@@ -4,7 +4,7 @@
 
 #### MITRE ATT&CK Technique(s)
 
-| Technique ID | Title    | Link    |
+| Technique ID | Title    | Link   |
 | ---  | --- | --- |
 | T1046 | Network Service Discovery | https://attack.mitre.org/techniques/T1046/ |
 
